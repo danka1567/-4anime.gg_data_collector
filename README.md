@@ -10,6 +10,7 @@ A high-performance Python script for extracting anime series data from 4anime.gg
 - **Async Processing**: Ultra-fast concurrent processing using `aiohttp` and `asyncio`
 - **TMDB Integration**: Automatically fetches metadata from The Movie Database
 - **Error Handling**: Comprehensive logging and error URL tracking
+- this code use this api for data extract https://4anime.gg/ajax/episode/list/355
 
 ### Technical Features
 - **High Concurrency**: Configurable worker threads (default: 30 async workers)
