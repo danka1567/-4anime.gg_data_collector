@@ -1,4 +1,4 @@
-# 4Anime Data Extractor
+# 4Anime Data Extractor  this code use this api for data extract https://4anime.gg/ajax/episode/list/355
 
 A high-performance Python script for extracting anime series data from 4anime.gg with TMDB integration for enhanced metadata.
 
